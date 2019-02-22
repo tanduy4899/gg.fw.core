@@ -1,0 +1,1 @@
+# lgsp.fw.core
